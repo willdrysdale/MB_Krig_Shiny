@@ -1,0 +1,25 @@
+Package: wsdmiscr
+Version: 0.7.0
+Date: 2018-07-25
+Title: wsdmiscr
+Decription: Various functions supporting data handling in an atmospheric chemistry PhD
+Author: Will S Drysdale
+Maintainer: Will S Drysdale <willdrysdale@googlemail.com>
+URL: https://github.com/willdrysdale/wsdmiscr
+Depends: 
+    waclr,
+    openair,
+    zoo,
+    chron,
+    sp,
+    stringr,
+    ggmap,
+    ggplot2,
+    reshape,
+    maptools,
+    rgeos,
+    magrittr,
+    viridisLite,
+    MethComp,
+    ncdf4
+RoxygenNote: 6.0.1
